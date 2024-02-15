@@ -23,7 +23,7 @@
         - push - list.append() 와 동일
     - 큐 : First In First Out(FIFO)
 
-    ![queue](https://upload.wikimedia.org/wikipedia/commons/6/6d/QUEUE.png)
+    ![queue](https://raw.githubusercontent.com/inje98/ds-and-algorithm/main/images/queue.png)
 
 
 ## 4일차
