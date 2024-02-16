@@ -23,7 +23,7 @@ groupList = ['블랙핑크', '레드벨벳', '마마무', '에이핑크', '걸�
 # 메인
 node = TreeNode()
 node.data = groupList[0]
-root = node
+root = node # root -> 블랙핑크
 
 for name in groupList[1:]: # 레드벨벳부터 끝까지
     node = TreeNode()
