@@ -42,7 +42,7 @@
 - 파이썬 자료구조/알고리즘
     - 그래프
 
-    ![그래프](https://raw.githubusercontent.com/inje98/ds-and-algorithm/main/images/gragh02.png)
+    ![그래프](https://raw.githubusercontent.com/inje98/ds-and-algorithm/main/images/graph02.png)
 
 ## 6일차(24. 02. 19)
 - 파이썬 자료구조/알고리즘
